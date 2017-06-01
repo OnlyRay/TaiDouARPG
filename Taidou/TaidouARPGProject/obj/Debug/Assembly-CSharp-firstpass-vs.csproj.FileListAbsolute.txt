@@ -1,0 +1,15 @@
+E:\TempUnityProject\TaidouARPGProject\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\TempUnityProject\TaidouARPGProject\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\TempUnityProject\TaidouARPGProject\Temp\bin\Debug\LitJson.dll
+E:\TempUnityProject\TaidouARPGProject\Temp\bin\Debug\Photon3Unity3D.dll
+E:\TempUnityProject\TaidouARPGProject\Temp\bin\Debug\TaidouCommon.dll
+E:\TempUnityProject\TaidouARPGProject\Temp\bin\Debug\UnityEditor.dll
+E:\TempUnityProject\TaidouARPGProject\Temp\bin\Debug\UnityEngine.dll
+E:\TempUnityProject\TaidouARPGProject\Temp\bin\Debug\UnityEngine.UI.dll
+E:\TempUnityProject\TaidouARPGProject\Temp\bin\Debug\Mono.Cecil.dll
+E:\TempUnityProject\TaidouARPGProject\Temp\bin\Debug\nunit.framework.dll
+E:\TempUnityProject\TaidouARPGProject\Temp\bin\Debug\Unity.DataContract.dll
+E:\TempUnityProject\TaidouARPGProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\TempUnityProject\TaidouARPGProject\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+E:\TempUnityProject\TaidouARPGProject\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\TempUnityProject\TaidouARPGProject\obj\Debug\Assembly-CSharp-firstpass.pdb

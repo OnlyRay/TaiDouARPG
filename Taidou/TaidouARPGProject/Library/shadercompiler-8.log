@@ -1,0 +1,21 @@
+Base path: D:/Program Files (x86)/Unity 4.6/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-8-1568
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=8 type=0 insize=2219 outsize=2958 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1852 outsize=308 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1706 outsize=614 kw=SOFTPARTICLES_ON ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1706 outsize=415 kw=SOFTPARTICLES_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1252 outsize=365 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1051 outsize=1690 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1917 outsize=709 kw= ok=1
+Unhandled exception: Readfile from pipe failed. GLE=管道已结束。
+
+
+Quitting shader compiler process
